@@ -20,7 +20,7 @@ Umbrella works as an external macro tool. It operates at the input level only, m
 
 - Simple and intuitive interface
 
-- Profile saving and loading (JSON-based)
+- Profile saving and loading 
 
 - Low system resource usage
 
