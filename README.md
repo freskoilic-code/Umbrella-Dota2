@@ -66,3 +66,6 @@ Umbrella is built around three core principles:
 3. Compatibility – No file modifications or internal process interaction.
 
 The project is intended for educational and productivity purposes, focusing on automation logic and user interface design. All automation operates strictly through standard input simulation.
+
+
+
